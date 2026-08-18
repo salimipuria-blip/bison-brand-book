@@ -2,6 +2,12 @@
 
 Cinematic digital brand book for **BISON** — a luxury outdoor house.
 
+**Live site (GitHub Pages):** https://salimipuria-blip.github.io/bison-brand-book/
+
+**Repo:** https://github.com/salimipuria-blip/bison-brand-book
+
+**Download ZIP:** https://github.com/salimipuria-blip/bison-brand-book/raw/arena/01a016c5-bison-brand-book/public/BISON-Brand-Book.zip
+
 The site is a long-scroll identity system with live **desktop** and **mobile** product demos, built from the [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) design-intelligence workflow (Scroll-Triggered Storytelling, exaggerated minimalism, Cormorant + Montserrat, iron / bone / gold).
 
 ## Run
