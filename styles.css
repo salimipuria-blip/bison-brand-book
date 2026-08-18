@@ -160,6 +160,29 @@ p.t-fa, li.t-fa, h1.t-fa, h2.t-fa, h3.t-fa, div.t-fa { display: block; }
   color: var(--night);
   font-weight: 700;
 }
+.dl-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: .42rem .85rem;
+  border: 1px solid var(--yellow);
+  color: var(--night);
+  background: var(--yellow);
+  font-family: var(--display);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.dl-btn:hover { filter: brightness(1.08); }
+.dl-btn-lg {
+  margin-top: 1.8rem;
+  padding: .85rem 1.5rem;
+  font-size: 13px;
+  letter-spacing: .22em;
+}
 .burger {
   display: none;
   width: 40px; height: 40px;
@@ -346,6 +369,18 @@ html[lang="fa"] .big-line { max-width: 22ch; line-height: 1.45; }
 }
 
 /* logo wall */
+.logo-hero-stage {
+  background: #000;
+  display: grid;
+  place-items: center;
+  padding: 2.4rem 1rem;
+  border: 1px solid var(--line);
+}
+.logo-hero-stage img { width: min(520px, 88%); }
+.wordmark-img {
+  width: min(720px, 100%);
+  margin: .6rem 0 1rem;
+}
 .logo-wall {
   display: grid;
   grid-template-columns: 1.3fr .7fr;
